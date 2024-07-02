@@ -1,4 +1,12 @@
-# React + Vite
+# Website React + Vite
+
+## Tecnologias
+- Vite
+- React Router dom
+- Material UI
+- Material Icons
+- Javascript
+- Css
 
 ## Correr el cliente
 - Este proyecto utiliza la version de Node `20.12.2`
